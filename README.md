@@ -3,6 +3,6 @@
   </a>
 <p align="center">
 
-thank you [pt-everypony](https://github.com/pt-everypony)!
+thank you [pt-everypony](https://github.com/pt-everypony) [piddlesjet](https://github.com/piddlesjet) !
  
 </a>
