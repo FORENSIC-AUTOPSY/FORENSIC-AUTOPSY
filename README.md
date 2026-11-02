@@ -3,6 +3,6 @@
   </a>
 <p align="center">
 
-thank you [@pt-everypony](https://github.com/pt-everypony) [@piddlesjet](https://github.com/piddlesjet) [@Knox-Event](https://github.com/Knox-Event) [@THE-TEMPIST](https://github.com/THE-TEMPIST) !
+thank you [@pt-everypony](https://github.com/pt-everypony) [@piddlesjet](https://github.com/piddlesjet) [@Knox-Event](https://github.com/Knox-Event) [@THE-TEMPIST](https://github.com/THE-TEMPIST) [@bug-town](https://github.com/bug-town) !
  
 </a>
